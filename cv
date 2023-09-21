@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV_Xiomara_Martinez</title>
+    <link rel="icon" href="cv img.jpg">
+    <meta name="descrition" content="curriculum vitae de Xiomara Martinez">
+    <meta name="kwywords" content="desarrollo, paginas web, diseño, programacion">
+</head>
+<body>
+    <header>
+        <h1> curriculum vitae de Xiomara Martinez </h1>
+        <div>
+            <img src="imagen xio.jpg" width="200" alt="Imagen de Xiomara Martinez">
+        </div>
+    </header>
+    <section class="wrapper">
+    <section class="main">
+        <article>
+            <h2>Edad: 21</h2>
+            <h2>Domicilio: Formosa-Argantina "Barrio La Nueva Formosa, Mz2 Casa2"</h2>
+            <p>
+                "-Mi objetivo profesional es trabajar en una empresa estable, ademas de aportar con lo aprendido en mi formacion y experiencia."
+            </p>
+        </article>
+        <article>
+            <h3>Estudios realizados:</h3>
+            <p> Lista desordenada: </p>
+            <nav>
+                <!-- esto es una lista desordenada-->
+            <ul>
+            <li>
+                ::marker
+                "Tecnicatura analis y diseño de software (2022)"
+            </li>
+            </ul>
+            </nav>
+            <p></p>
+            <h4>Experiencia laboral:</h4>
+            <p> Ordenadas de Mayor a menor: </p>
+            <nav>
+                <!-- esto es una lista desordenada-->
+                <ol>
+                  <li>
+                    ::marker
+                    "El drugstore de Victoria (2023)"
+                  </li>  
+                <li>
+                    ::marker
+                    "Empleada domestica (2023)"
+                </li>  
+                <li>
+                    ::marker
+                    "Comerciante (2019)"
+
+                </li>
+                </ol>
+            </nav>
+            <p></p>
+            </article>
+            </section>
+            <aside>
+                <h3>Perfil</h3>
+            <p>
+                "Para empezar, porque el perfil en el curriculum vitae es una sección obligatoria que los 
+                técnicos de selección esperan encontrar al abrir tu CV. Si bien es cierto que antiguamente
+                 este breve resumen no tenía tanta importancia, las tendencias actuales del mercado laboral
+                nos muestran todo lo contrario, convirtiéndose en un apartado imprescindible.."
+            </p>
+            <p>
+               "Sin embargo, la razón fundamental es que el perfil del currículum es tremendamente útil, 
+               ya que de esta manera puedes presentarte ante el reclutador y explicarle en este minuto 
+               de oro cuáles son tus puntos fuertes y por qué debería darte una oportunidad." 
+            </p>
+            <p>
+                "Hay candidatos que reservan este tipo de información para su carta de presentación, 
+                pero corren el riesgo de que los técnicos de RRHH no encuentren el currículum 
+                interesante a primera vista y que pierdan el interés. Por lo tanto, incluye siempre
+                 el perfil en el currículum.Crea tu perfil profesional ahora"
+            </p>   
+         </aside>
+    </section>
+    <footer>
+        <p> Si queres contactarte rellena este formulario: </p>
+        <p>
+           "Ingresa tu nombre completo:"
+           <input type="text" name:"nombrecompleto">
+           <input type="submit" value="Enviar la información">
+        </p>
+        "Esto es un link de buscador de "google" "
+        <a href="https://www.google.com.ar/"> Ir a Formulario de Google</a>"
+        <!-- <br> salta un espacio -->
+        <br>
+        <br>
+        " Ir a mis proyectos: "
+        <br>
+        <br>
+        <a href="index.html"> Proyectos </a>
+        <p></p>
+        <p>
+           <b>Soluciones Informaticas - Derechos reservados 2023</b>
+        </p>
+    </footer> 
+   </body>
+</html>
